@@ -13,13 +13,8 @@ sites:
     url: https://sis.krea.edu.in
   - name: Krea Budget
     url: http://budget.krea.edu.in
-  - name: Aws Server
-    url: https://aws-testing.krea.edu.in
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.krea.edu.in
-  # baseUrl: /your-repo-name
   logoUrl: https://cdn.krea.edu.in/_/erp/logo.png
   name: Krea Status Page
   introTitle: "**Krea Status** is to maintain Krea Application Uptime."
