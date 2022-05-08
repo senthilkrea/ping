@@ -22,19 +22,19 @@
     "url": "https://erp-testing.krea.edu.in",
     "icon": "https://favicons.githubusercontent.com/erp-testing.krea.edu.in",
     "slug": "krea-erp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1258,
-    "timeDay": 1181,
-    "timeWeek": 1182,
-    "timeMonth": 1265,
-    "timeYear": 1258,
+    "uptimeYear": "99.99%",
+    "time": 1249,
+    "timeDay": 1038,
+    "timeWeek": 1146,
+    "timeMonth": 1253,
+    "timeYear": 1249,
     "dailyMinutesDown": {
-      "2022-05-08": 3
+      "2022-05-08": 5
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "http://budget.krea.edu.in",
     "icon": "https://favicons.githubusercontent.com/budget.krea.edu.in",
     "slug": "krea-budget",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 1211,
-    "timeWeek": 1294,
-    "timeMonth": 1257,
-    "timeYear": 1256,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1243,
+    "timeDay": 971,
+    "timeWeek": 1223,
+    "timeMonth": 1240,
+    "timeYear": 1243,
     "dailyMinutesDown": {
-      "2022-05-08": 0
+      "2022-05-08": 4
     }
   }
 ]
