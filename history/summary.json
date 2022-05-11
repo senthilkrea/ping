@@ -22,19 +22,19 @@
     "url": "https://erp-testing.krea.edu.in",
     "icon": "https://favicons.githubusercontent.com/erp-testing.krea.edu.in",
     "slug": "krea-erp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1219,
-    "timeDay": 625,
-    "timeWeek": 1022,
-    "timeMonth": 1206,
-    "timeYear": 1219,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1217,
+    "timeDay": 794,
+    "timeWeek": 1033,
+    "timeMonth": 1203,
+    "timeYear": 1217,
     "dailyMinutesDown": {
-      "2022-05-11": 0
+      "2022-05-11": 22
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://sis.krea.edu.in",
     "icon": "https://favicons.githubusercontent.com/sis.krea.edu.in",
     "slug": "krea-sis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1176,
-    "timeDay": 639,
-    "timeWeek": 1040,
-    "timeMonth": 1139,
-    "timeYear": 1176,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1175,
+    "timeDay": 802,
+    "timeWeek": 1050,
+    "timeMonth": 1138,
+    "timeYear": 1175,
     "dailyMinutesDown": {
-      "2022-05-11": 0
+      "2022-05-11": 22
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "http://budget.krea.edu.in",
     "icon": "https://favicons.githubusercontent.com/budget.krea.edu.in",
     "slug": "krea-budget",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 1096,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1237,
+    "timeDay": 1125,
     "timeWeek": 1189,
-    "timeMonth": 1229,
-    "timeYear": 1238,
+    "timeMonth": 1228,
+    "timeYear": 1237,
     "dailyMinutesDown": {
-      "2022-05-11": 0
+      "2022-05-11": 22
     }
   }
 ]
