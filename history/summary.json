@@ -62,9 +62,9 @@
     "url": "https://sis.krea.edu.in",
     "icon": "https://favicons.githubusercontent.com/sis.krea.edu.in",
     "slug": "krea-sis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -74,6 +74,7 @@
     "timeMonth": 1158,
     "timeYear": 1181,
     "dailyMinutesDown": {
+      "2022-05-20": 0,
       "2022-05-11": 22
     }
   },
@@ -82,7 +83,7 @@
     "url": "http://budget.krea.edu.in",
     "icon": "https://favicons.githubusercontent.com/budget.krea.edu.in",
     "slug": "krea-budget",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -94,6 +95,7 @@
     "timeMonth": 1315,
     "timeYear": 1282,
     "dailyMinutesDown": {
+      "2022-05-20": 0,
       "2022-05-11": 22
     }
   }
